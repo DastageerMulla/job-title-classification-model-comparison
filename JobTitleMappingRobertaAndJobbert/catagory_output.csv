@@ -1,0 +1,11 @@
+id,search_term,conf_old_1,cat_old_1,conf_new_1,cat_new_1,conf_old_2_3,conf_new_2_3
+1,acute care,87.41,Healthcare,59.01,Healthcare,"6.37% (Medical), 2.4% (Community & Social Care)","29.55% (Nursing), 9.9% (Medical)"
+2,pediatrics,64.05,Medical,95.84,Medical,"31.37% (Dental), 0.71% (Healthcare)","3.02% (Healthcare), 0.24% (Nursing)"
+3,mental health,84.33,Healthcare,71.64,Healthcare,"4.82% (Community & Social Care), 4.5% (Therapy)","16.97% (Community & Social Care), 6.75% (Medical)"
+4,healthcare professionals,94.67,Healthcare,73.73,Healthcare,"3.26% (Medical), 0.73% (Community & Social Care)","25.06% (Medical), 0.28% (Nursing)"
+5,clinical skills,54.88,Healthcare,85.63,Healthcare,"22.06% (Therapy), 6.83% (Community & Social Care)","10.7% (Medical), 1.58% (Therapy)"
+6,healthcare teams,96.31,Healthcare,91.11,Healthcare,"1.04% (Medical), 0.95% (Community & Social Care)","7.05% (Medical), 0.79% (Nursing)"
+7,Royal Cornwall Hospitals NHS Trust,59.69,Healthcare,43.98,Healthcare,"28.99% (Medical), 3.7% (Nursing)","24.08% (Government & Non Profit), 15.05% (Charity & Voluntary)"
+8,nurse practitioner,98.99,Nursing,97.18,Nursing,"0.2% (Medical), 0.17% (Healthcare)","1.19% (Healthcare), 1.13% (Medical)"
+9,clinical nurse specialist,99.26,Nursing,99.6,Nursing,"0.09% (Healthcare), 0.05% (Medical)","0.07% (Healthcare), 0.04% (Medical)"
+10,Senior nurses,99.08,Nursing,99.53,Nursing,"0.07% (Veterinary), 0.06% (Healthcare)","0.1% (Healthcare), 0.05% (Medical)"
